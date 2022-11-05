@@ -11,4 +11,3 @@ httptools
 pydantic~=1.10.2
 tensorflow
 keras
-Image
