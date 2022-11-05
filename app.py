@@ -6,7 +6,7 @@ import pickle
 
 # 2. Create the app object
 app = FastAPI()
-pickle_in = open("/Users/anshagarwal/ANN_Model.pkl", "rb")
+pickle_in = open("ANN_Model.pkl", "rb")
 classifier = pickle.load(pickle_in)
 
 
