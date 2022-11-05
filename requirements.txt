@@ -10,3 +10,4 @@ uvloop
 httptools
 pydantic~=1.10.2
 keras
+tensorflow
